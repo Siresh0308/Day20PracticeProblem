@@ -1,11 +1,113 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="21fda63b-0351-406c-b92b-65c8d876c90a" name="Changes" comment="" />
+    <list default="true" id="21fda63b-0351-406c-b92b-65c8d876c90a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddessBook/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddessBook/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddessBook/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddessBook/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddessBook/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddessBook/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AddessBook/AddessBook.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13ProblemsUsingGenerics/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13ProblemsUsingGenerics/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13ProblemsUsingGenerics/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13ProblemsUsingGenerics/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13ProblemsUsingGenerics/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13ProblemsUsingGenerics/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13ProblemsUsingGenerics/Day13ProblemsUsingGenerics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13ProblemsUsingGenerics/src/bridgelabz/generic/com/FindTheMaxFloats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13ProblemsUsingGenerics/src/bridgelabz/generic/com/FindTheMaxInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13ProblemsUsingGenerics/src/bridgelabz/generic/com/FindTheMaxStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13ProblemsUsingGenerics/src/bridgelabz/generic/com/Refactor1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day13ProblemsUsingGenerics/src/bridgelabz/generic/com/Refactor2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day3PracticeProblem/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day3PracticeProblem/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day3PracticeProblem/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day3PracticeProblem/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day3PracticeProblem/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day3PracticeProblem/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day3PracticeProblem/Day3PracticeProblem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day4Practiceproblem/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day4Practiceproblem/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day4Practiceproblem/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day4Practiceproblem/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day4Practiceproblem/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day4Practiceproblem/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day4Practiceproblem/Day4Practiceproblem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day8Practiceproblem/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day8Practiceproblem/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day8Practiceproblem/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day8Practiceproblem/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day8Practiceproblem/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day8Practiceproblem/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day8Practiceproblem/Day8Practiceproblem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day8Practiceproblem/LineComparisonProblems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day8Practiceproblem/out/production/Day8Practiceproblem/Day8Practiceproblem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectOrientedPracticeProblem/ObjectOrientedPracticeProblem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectOrientedPracticeProblem/src/Bridgelabz/stock/com/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectOrientedPracticeProblem/src/Bridgelabz/stock/com/StockAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectOrientedPracticeProblem/src/Bridgelabz/stock/com/StockPortfolio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectOrientedPracticeProblem/src/Bridgelabz/stock/com/Stocks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectOrientedPracticeProblem/src/DeckOfCards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObjectOrientedPracticeProblem/src/ExtendDeckOfCards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/Stack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/src/Stack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Stack/src/StackOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day14LinkListStackAndQueue/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day14LinkListStackAndQueue/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day14LinkListStackAndQueue/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day14LinkListStackAndQueue/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day14LinkListStackAndQueue/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day14LinkListStackAndQueue/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day14LinkListStackAndQueue/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day14LinkListStackAndQueue/day14LinkListStackAndQueue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day14LinkListStackAndQueue/src/StackAndQueue/ToCreateAStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/demo3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo3/src/demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bridgelabz.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Day6Practiceproblem/ProgramsForJUnitTesting/MonthlyPayment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Day6Practiceproblem/ProgramsForJUnitTesting/MonthlyPayment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeeWagesCalculation/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeeWagesCalculation/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeeWagesCalculation/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeeWagesCalculation/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeeWagesCalculation/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/UserRegistrationFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/UserRegistrationFormat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/UserRegistrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/UserRegistrationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bridgelabz/com/EmployeeWages.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -19,10 +121,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.UserRegistrationTest.givenName_WhenProper_ShouldReturnTrue">
+  <component name="RunManager" selected="JUnit.UserRegistrationTest">
     <configuration name="UserRegistrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UserRegistrationProblem" />
       <extension name="coverage">
@@ -56,8 +159,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.UserRegistrationTest.givenName_WhenProper_ShouldReturnTrue" />
         <item itemvalue="JUnit.UserRegistrationTest" />
+        <item itemvalue="JUnit.UserRegistrationTest.givenName_WhenProper_ShouldReturnTrue" />
       </list>
     </recent_temporary>
   </component>
@@ -71,5 +174,16 @@
       <updated>1659205064601</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
