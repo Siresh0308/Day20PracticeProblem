@@ -127,7 +127,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.UserRegistrationTest.giveEmailValues_WhenNotProper_ShouldReturnFalse">
+  <component name="RunManager" selected="JUnit.UserRegistrationTest">
     <configuration name="UserRegistrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UserRegistrationProblem" />
       <extension name="coverage">
@@ -177,8 +177,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.UserRegistrationTest.giveEmailValues_WhenNotProper_ShouldReturnFalse" />
         <item itemvalue="JUnit.UserRegistrationTest" />
+        <item itemvalue="JUnit.UserRegistrationTest.giveEmailValues_WhenNotProper_ShouldReturnFalse" />
         <item itemvalue="JUnit.UserRegistrationTest.givenName_WhenProper_ShouldReturnTrue" />
       </list>
     </recent_temporary>
