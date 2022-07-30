@@ -86,6 +86,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/UserRegistrationFormat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/UserRegistrationFormat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/org/example/UserRegistrationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/UserRegistrationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/UserRegistrationFormat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/UserRegistrationFormat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/UserRegistrationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/example/UserRegistrationTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bridgelabz/com/EmployeeWages.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -125,7 +127,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.UserRegistrationTest">
+  <component name="RunManager" selected="JUnit.UserRegistrationTest.giveEmailValues_WhenNotProper_ShouldReturnFalse">
     <configuration name="UserRegistrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="UserRegistrationProblem" />
       <extension name="coverage">
@@ -137,6 +139,22 @@
       <option name="PACKAGE_NAME" value="org.example" />
       <option name="MAIN_CLASS_NAME" value="org.example.UserRegistrationTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserRegistrationTest.giveEmailValues_WhenNotProper_ShouldReturnFalse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UserRegistrationProblem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.UserRegistrationTest" />
+      <option name="METHOD_NAME" value="giveEmailValues_WhenNotProper_ShouldReturnFalse" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -159,6 +177,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.UserRegistrationTest.giveEmailValues_WhenNotProper_ShouldReturnFalse" />
         <item itemvalue="JUnit.UserRegistrationTest" />
         <item itemvalue="JUnit.UserRegistrationTest.givenName_WhenProper_ShouldReturnTrue" />
       </list>
