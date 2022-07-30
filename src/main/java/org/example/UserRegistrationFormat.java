@@ -1,6 +1,5 @@
 package org.example;
 
-
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -32,6 +31,15 @@ public class UserRegistrationFormat {
         String regx = "^[a-z0-9]{3,}+([_+-.][a-z0-9]{3,}+)*@[a-z0-9]+.[a-z]{2,3}+(.[a-z][2,3]){0,1}$";
         pattern = Pattern.compile(regx);
         matcher = pattern.matcher(Email);
+        return matcher.matches();
+    }
+    /* method  numberValidationto validate phone no format
+     * @param PhoneNo return boolean value
+     */
+    public boolean numberValidation(String PhoneNo){
+        String regx = "^[0-9]{2}\\s[0-9]{10}";
+        pattern = Pattern.compile(regx);
+        matcher = pattern.matcher(PhoneNo);
         return matcher.matches();
     }
 }
